@@ -1,1 +1,0 @@
-*** moje informace o os ***

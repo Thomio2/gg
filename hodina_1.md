@@ -17,3 +17,4 @@ rm
 mkdir
 no hup
 ping
+sudo su -

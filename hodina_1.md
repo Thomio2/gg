@@ -11,7 +11,7 @@ ip ad
 top
 ps ax
 kill -9 [PID] ps ax/grep mc
-mu
+mv
 cp
 rm
 mkdir

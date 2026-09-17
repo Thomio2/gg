@@ -5,3 +5,15 @@ https://zdrojak.cz/
 https://www.markdownguide.org/cheat-sheet/
 https://about.readthedocs.com/
 https://context7.com/
+
+Linux příkazy
+ip ad
+top
+ps ax
+kill -9 [PID] ps ax/grep mc
+mu
+cp
+rm
+mkdir
+no hup
+ping
